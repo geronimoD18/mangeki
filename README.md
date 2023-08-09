@@ -20,4 +20,4 @@ Para clonar el repositorio, sigue estos pasos:
 3. Ejecuta el siguiente comando para clonar el repositorio:
 
    ```git
-   git clone https://github.com/geronimoD18/manga_app.git
+   git clone https://github.com/geronimoD18/mangeki.git
